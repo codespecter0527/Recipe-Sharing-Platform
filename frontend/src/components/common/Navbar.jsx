@@ -83,7 +83,7 @@ export const Navbar = () => {
             fontFamily={"Kaushan Script"}
             color={textColor}
           >
-            Recipe
+            Recipes
             <Text display="inline" color="primary.500">
               Hub
             </Text>
